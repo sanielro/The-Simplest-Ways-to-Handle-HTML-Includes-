@@ -1,6 +1,8 @@
 # The-Simplest-Ways-to-Handle-HTML-Includes-
 The Simplest Ways to Handle HTML Includes 
 
+fist primeiro crie se footer e crie uma unica pagina footer.html  depois de estilizar 
+
 The simplest ways to deal with HTML include 
 
 Using iframe, first create footer file footer.html in index.html between <body></body> tag
